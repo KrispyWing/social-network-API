@@ -1,0 +1,32 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "Basic API back end for a social network site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrispyWing/social-network-API.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "api",
+    "mongodb",
+    "mongoose",
+    "express"
+  ],
+  "author": "KrispyWing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrispyWing/social-network-API/issues"
+  },
+  "homepage": "https://github.com/KrispyWing/social-network-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
